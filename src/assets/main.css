@@ -1,0 +1,15 @@
+@import 'antDesign/modal.css';
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 20px;
+}
+
+#app {
+    min-height: calc(100vh - 20px);
+}
